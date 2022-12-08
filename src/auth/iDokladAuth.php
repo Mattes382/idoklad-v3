@@ -27,7 +27,7 @@ class iDokladAuth {
      * Holds token URL
      * @var string
      */
-    private $tokenUrl = 'https://app.idoklad.cz/identity/server/connect/token';
+    private $tokenUrl = 'https://identity.idoklad.cz/server/connect/token';
 
     /**
      * Holds client id set by developer
