@@ -1,12 +1,12 @@
 {
-    "name": "malcanek/idoklad-v2",
-    "description": "PHP třída pro ulehčení požadavků na iDoklad api v2.",
+    "name": "tichoslapek/idoklad-v3",
+    "description": "PHP třída pro ulehčení požadavků na iDoklad api v3.",
     "keywords": ["idoklad", "fakturace"],
-    "homepage": "https://github.com/malcanek/iDoklad-v2",
+    "homepage": "https://github.com/Mattes382/idoklad-v3",
     "license": "MIT",
     "authors": [
         {
-            "name": "Jan Malcánek",
+            "name": "Jan Malcánek, Matěj Pospíšil, c4ni",
             "email": "jan@malcanek.cz",
             "homepage": "http://www.malcanek.cz",
             "role": "Author"
